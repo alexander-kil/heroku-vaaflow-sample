@@ -1,0 +1,5 @@
+{
+  "name": "Vaadin Flow sample in Heroku ENV",
+  "description": "heroku based Vaadin FLOW example",
+  "addons": [ "heroku-postgresql" ]
+}

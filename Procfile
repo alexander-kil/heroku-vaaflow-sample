@@ -1,0 +1,1 @@
+web: java -jar target/heroku-vaaflow-sample-1.0.jar
